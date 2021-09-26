@@ -1,3 +1,10 @@
+aaa
+bbb
+ccc
+ddd
+
+select * from Products
+
 Part 1
 Таски мої, Таски мої,
 Лихо мені з вами!
@@ -70,9 +77,3 @@ Part 1
 Бо дотепні... А я... а я
 Тілько вмію плакать,
 Тілько сльози за Украйну...
-aaa
-bbb
-ccc
-ddd
-
-select * from Products
