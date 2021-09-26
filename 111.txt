@@ -1,9 +1,4 @@
-aaa
-bbb
-ccc
-ddd
 
-select * from Products
 
 Part 1
 Таски мої, Таски мої,
